@@ -41,14 +41,14 @@ export default function Hero() {
         >
           <div className="relative rounded-2xl overflow-hidden shadow-2xl border border-blue-500/20">
             <div className="aspect-video bg-gradient-to-br from-gray-900 to-black">
-              <iframe
-                className="w-full h-full"
-                src="https://www.youtube.com/embed/TFLblkKfPJk?si=fDKhKbPxzQXpTq3h"
-                title="Video VSL"
-                frameBorder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowFullScreen
-              ></iframe>
+              <video
+  className="w-full h-full"
+  controls
+  playsInline
+>
+  <source src="https://m9nhrhaseo1r3ap7.public.blob.vercel-storage.com/VSL%207%20DIAS%2017%E2%82%AC.mov" type="video/quicktime" />
+  Tu navegador no soporta el vídeo.
+</video>
             </div>
           </div>
         </motion.div>
