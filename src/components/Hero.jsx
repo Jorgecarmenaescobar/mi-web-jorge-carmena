@@ -46,7 +46,7 @@ export default function Hero() {
   controls
   playsInline
 >
-  <source src="https://m9nhrhaseo1r3ap7.public.blob.vercel-storage.com/VSL%207%20DIAS%2017%E2%82%AC.mov" type="video/quicktime" />
+  <source src="https://m9nhrhaseo1r3ap7.public.blob.vercel-storage.com/VSL%207%20DIAS%2017%E2%82%AC.mp4" type="video/mp4" />
   Tu navegador no soporta el vídeo.
 </video>
             </div>
