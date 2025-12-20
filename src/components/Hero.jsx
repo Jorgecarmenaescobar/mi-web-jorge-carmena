@@ -61,7 +61,7 @@ export default function Hero() {
           className="text-center"
         >
           <a
-            href="https://nonzgamer06.systeme.io/5a380661"
+            href="https://www.skool.com/confianza-desde-0-9576/about?ref=aa5b28ee48904955b658b73892bcd62d"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-3 px-8 py-4 bg-gradient-to-r from-blue-600 to-blue-500 text-white text-lg sm:text-xl font-bold rounded-full hover:from-blue-500 hover:to-blue-400 transition-all duration-300 shadow-lg hover:shadow-blue-500/50 hover:scale-105"
